@@ -142,4 +142,4 @@ You can disable mode switching for such cases:
     from django_replicated import utils
     utils.disable_state_change()
 
-(There's also a similar `enalble_state_change()` function.)
+(There's also a similar `enable_state_change()` function.)
